@@ -1,0 +1,22 @@
+The methodology used to classify the tweets was as follows:
+
+1. First, I would fact-check the Tweet by finding several credible news sources
+reporting the same thing. I checked to make sure that the dates, pictures, and
+content of the Tweet were accurate and factual. Otherwise, it would be deemed as 
+misinformation.
+
+2. To determine whether something was news or opinion, I put a lot of emphasis on
+the word choice of the Tweeter. For instance, a Tweet that said SCOTUS made the 
+"correct" decision and that "Texas is a pro-life state" is an opinion as the Tweeter
+cannot speak for all of Texas and there is no objectively correct decision. Too 
+much opinion was infused in the Tweet to confidently call it news. Tweets that were
+impartial and objective were cited news.
+
+3. A News Tweet was labelled 'Breaking' if it had just happened or was    
+currently happening at the time of the Tweet. It was labelled 'Normal' if the 
+news was not extremely recent, time-sensitive, or still developing.
+
+4. An Opinion Tweet was categorized as 'Pro-Life' if the content of the Tweet was
+supportive of a ban on abortion and argued for it. It was labelled 'Pro-Choice' if
+the content of the Tweet was against a ban on abortion and argued against it. 
+
